@@ -1,2 +1,2 @@
-# Paython
+# Python
 P
